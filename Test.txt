@@ -1,1 +1,5 @@
 Testing git
+
+Modify the added file
+
+Modified text file again
