@@ -1,4 +1,0 @@
-This is my first GIT repo
-Modified the repo
-Modification 2
-Modification 3
