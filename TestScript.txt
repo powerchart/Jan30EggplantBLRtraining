@@ -1,0 +1,2 @@
+Something in the file is working correctly
+second line added
