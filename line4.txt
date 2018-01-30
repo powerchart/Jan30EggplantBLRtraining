@@ -6,3 +6,17 @@ com.cerner.edc.framework.client.connection.impl.CompatibilityBusConnection.perfo
 com.cerner.edc.framework.client.connection.impl.CompatibilityBusConnection.performRequestReplyToEndpoint(CompatibilityBusConnection.java:285)
 com.cerner.edc.framework.client.messaging.BusDelegate.executeRRTransactionToEndpoint(BusDelegate.java:343)
 com.cerner.careaware.co
+
+
+ttttttttttttttttttttttttt
+
+
+
+un.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+java.lang.reflect.Constructor.newInstance(Unknown Source)
+com.cerner.common.servicelocator.internal.ReflectionServiceProviderInstantiator$ReflectionServiceProviderParameteredBuilder$1.instantiate(ReflectionServiceProviderInstantiator.java:88)
+com.cerner.common.servicelocator.internal.AbstractServiceProviderInstantiator$AbstractServiceProviderParameteredBuilder.construct(AbstractServiceProviderInstantiator.java:143)
+com.cerner.genesis.barcode.BarcodeService.getInstance(BarcodeService.java:42)
+com.cerner.genesis
